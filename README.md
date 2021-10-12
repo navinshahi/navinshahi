@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navinshahi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Dynamic Programming
+- 🌱 I’m currently learning Machine Learning
 
 <!---
 navinshahi/navinshahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
